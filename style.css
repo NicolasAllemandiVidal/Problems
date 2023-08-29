@@ -1,0 +1,80 @@
+/*Start-Code During Interview-Nicolas*/
+/*Primary Styling*/
+html,body{
+    background-color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+/* Form styling */
+.form{
+    display: flex;
+    flex-direction:column;
+    text-align: left;
+}
+
+input{
+    text-decoration:underline;
+    border:0px;
+}
+
+button{
+    border-radius: 8px;
+    background: rgb(196,0,255);
+    background: Blue;
+    color: #Fff;
+    border-color: blue;
+    text-transform:uppercase;
+}
+button:hover{
+    background-color:purple;
+    border-color:purple;
+}
+
+.container{
+border: 2px solid #000; 
+padding: 10px; 
+width: 20%;  
+}
+
+/*End-Code During Interview-Nicolas*/
+
+/*Start-Fixed Code During Interview-Nicolas*/
+/*Primary Styling*/
+html,body{
+    background-color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+/* Form styling */
+.form{
+    display: flex;
+    flex-direction:column;
+    text-align: left;
+}
+
+input{
+    text-decoration:underline;
+    border:0px;
+}
+
+button{
+    border-radius: 8px;
+    background: rgb(196,0,255);
+    background: linear-gradient(31deg, rgba(196,0,255,1) 0%, rgba(132,0,255,1) 46%, rgba(0,0,255,1) 100%);
+    color: #Fff;
+    border-color: blue;
+    text-transform:uppercase;
+}
+button:hover{
+    box-shadow: 5px 5px 5px #000;
+}
+
+.container{
+border: 2px solid #000; 
+padding: 10px; 
+width: 20%;  
+}
+
+/*End-Fixed Code During Interview-Nicolas*/
